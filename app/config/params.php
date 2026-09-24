@@ -1,6 +1,10 @@
 <?php
 // PARAMS
 
+// Initialisation des zones dynamiques
+$title = '';
+$content = '';
+
 //paramétres de co a la db
 
 define('DB_HOST', 'localhost:3306');
